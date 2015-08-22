@@ -1,0 +1,9 @@
+name: PlayerData2
+version: 1.0.0-B1
+description: Keep track of your players.
+author: Chaka
+main: PlayerData2
+commands:
+  pd:
+    description: The main command.
+    usage: /<command>
