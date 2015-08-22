@@ -1,2 +1,2 @@
 # PlayerData2
-A rewrite of the PlayerData plugin.
+Keep track of your players
